@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h1> Chamal hasaranga </h1>
+    <h1> Change 2 for the app </h1>	
     <p>Please fill in this form to create an account.</p>
     <hr>
      
